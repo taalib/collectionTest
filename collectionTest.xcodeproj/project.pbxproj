@@ -14,6 +14,7 @@
 		5A21A4751F6C380E00070288 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A21A4731F6C380E00070288 /* LaunchScreen.storyboard */; };
 		5A21A4801F6C380E00070288 /* collectionTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21A47F1F6C380E00070288 /* collectionTestTests.swift */; };
 		5A21A48B1F6C380E00070288 /* collectionTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21A48A1F6C380E00070288 /* collectionTestUITests.swift */; };
+		5A21A4A11F7BE8BC00070288 /* Circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21A4A01F7BE8BC00070288 /* Circle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5A21A4861F6C380E00070288 /* collectionTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = collectionTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A21A48A1F6C380E00070288 /* collectionTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collectionTestUITests.swift; sourceTree = "<group>"; };
 		5A21A48C1F6C380E00070288 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A21A4A01F7BE8BC00070288 /* Circle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Circle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				5A21A46A1F6C380E00070288 /* AppDelegate.swift */,
 				5A21A46C1F6C380E00070288 /* ViewController.swift */,
+				5A21A4A01F7BE8BC00070288 /* Circle.swift */,
 				5A21A46E1F6C380E00070288 /* Main.storyboard */,
 				5A21A4711F6C380E00070288 /* Assets.xcassets */,
 				5A21A4731F6C380E00070288 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				5A21A46D1F6C380E00070288 /* ViewController.swift in Sources */,
 				5A21A46B1F6C380E00070288 /* AppDelegate.swift in Sources */,
+				5A21A4A11F7BE8BC00070288 /* Circle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
